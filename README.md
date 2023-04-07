@@ -13,6 +13,6 @@ Dataset Chosen:
 https://data.wprdc.org/dataset/allegheny-county-air-quality/resource/4ab1e23f-3262-4bd3-adbf-f72f0119108b 
 
 
-Rylee Boles:
+Rylee Boles (rcb90@pitt.edu):
 
 
