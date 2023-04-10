@@ -15,4 +15,5 @@ https://data.wprdc.org/dataset/allegheny-county-air-quality/resource/4ab1e23f-32
 
 Rylee Boles (rcb90@pitt.edu):
 
+https://data.wprdc.org/dataset/allegheny-county-smoking-rates/resource/7cabd3e1-6d14-48e3-abda-6d3c15c26565
 
