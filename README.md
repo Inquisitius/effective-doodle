@@ -15,4 +15,4 @@ Rylee Boles (rcb90@pitt.edu):
 
 ShaoQing Cai (shc231@pitt.edu):
 
-https://data.wprdc.org/dataset/allegheny-county-depression-medication
+https://data.wprdc.org/dataset/allegheny-county-depression-medication/resource/56fb7a63-7a97-4c23-9ffb-666651546381?view_id=2cad4d5c-fd35-4266-b3e5-fc56afb4616b
