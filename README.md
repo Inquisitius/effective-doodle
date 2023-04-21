@@ -12,7 +12,7 @@ https://data.wprdc.org/dataset/allegheny-county-air-quality/resource/4ab1e23f-32
 
 Rylee Boles (rcb90@pitt.edu):
 
-https://data.wprdc.org/dataset/allegheny-county-covid-19-tests-cases-and-deaths/resource/abbfc1a0-9343-4fe9-8e4f-61c56ce6526e
+https://data.wprdc.org/dataset/allegheny-county-covid-19-tests-cases-and-deaths/resource/0f214885-ff3e-44e1-9963-e9e9062a04d1
 
 ShaoQing Cai (shc231@pitt.edu):
 
