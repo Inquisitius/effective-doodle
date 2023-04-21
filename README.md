@@ -1,8 +1,9 @@
 # effective-doodle
 Final Project for CMPINF 0010
 
-Group Members:
+The point of this repository is to use data to figure out which neighborhood in Pittsburgh has the best odds of surviving a zombie virus such as in the Last of Us. The submetrics we utilized were Air Quality, Depression Rates, COVID-19 Infection Rates. 
 
+Group Members:
 
 Titus Kurian (tik26@pitt.edu):
 
@@ -11,7 +12,7 @@ https://data.wprdc.org/dataset/allegheny-county-air-quality/resource/4ab1e23f-32
 
 Rylee Boles (rcb90@pitt.edu):
 
-(https://data.wprdc.org/dataset/childhood-asthma-healthcare-utilization/resource/61022ad9-c601-4152-9ba6-da915fd05be5)
+https://data.wprdc.org/dataset/allegheny-county-covid-19-tests-cases-and-deaths/resource/abbfc1a0-9343-4fe9-8e4f-61c56ce6526e
 
 ShaoQing Cai (shc231@pitt.edu):
 
